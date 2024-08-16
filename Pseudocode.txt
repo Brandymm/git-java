@@ -1,0 +1,27 @@
+// Obtain individual's information
+firstName: string
+lastName: string
+streetAddress: string
+city: string
+zipCode: string
+
+// Function to display
+print firstName
+print lastName
+print streetAddress
+print city
+print zipCode
+
+// Main program display
+Enter first name:
+Brandy
+Enter last name:
+Martinez
+Enter street address:
+123 Maple St
+Enter city:
+Victorville
+Enter zip code:
+12345
+
+End
